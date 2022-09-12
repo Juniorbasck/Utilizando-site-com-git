@@ -1,0 +1,32 @@
+table, td{
+			   border: solid 1px red;
+			}
+			.teste1 td {
+				padding: 30px 40px;
+				text-align: center;
+			}	
+
+.verde{
+	background: green;
+}
+.vermelho{
+	background: red;
+}
+.azul{
+	background: blue;
+}
+.amarelo{
+	background: yellow;
+}
+
+.tabela2{
+	tabela, td
+}
+
+#fundo{
+	background: #9acddc;
+}
+
+.branco{
+	background: white;
+}
